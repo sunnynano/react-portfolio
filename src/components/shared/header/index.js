@@ -83,7 +83,7 @@ export default function Header() {
           <HeaderLinks isOpen={isOpen} toggleMenu={toggleMenu} />
           <div className="flex justify-center space-x-2">
             <a
-              href="https://github.com/sunnysherrysunny/react-portfolio"
+              href="https://github.com/sunnynano/react-portfolio"
               target="_blank"
               rel="noreferrer"
             >
