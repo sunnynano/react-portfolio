@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import { GitHub, Linkedin, Film, Code } from "react-feather";
+import { GitHub, Linkedin, Code } from "react-feather";
 import FooterCopyright from "../footerCopyright";
 
 export default function Footer() {
@@ -8,19 +8,13 @@ export default function Footer() {
       id: "QcnueoKztfOGAfLv5Z0ic",
       name: "GitHub",
       icon: "GitHub",
-      url: "https://github.com/sunnysherrysunny",
+      url: "https://github.com/sunnynano",
     },
     {
       id: "HLOb-KTkinXfj4Ah-_Tbf",
       name: "Linkedin",
       icon: "Linkedin",
-      url: "https://www.linkedin.com/in/feiyang-guan",
-    },
-    {
-      id: "_aaswTHC2HTS2aL4P9axr",
-      name: "Bangumi",
-      icon: "Film",
-      url: "https://bgm.tv/user/634782",
+      url: "https://www.linkedin.com/in/s-guan",
     },
     {
       id: "xd0Ljws_hn4ICX5nQQS1k",
@@ -37,8 +31,6 @@ export default function Footer() {
         return <GitHub />;
       case 1:
         return <Linkedin />;
-      case 2:
-        return <Film />;
       default:
         return <Code />;
     }

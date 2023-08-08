@@ -17,8 +17,8 @@ const projectDetails = [
     id: "RRYqReDPFjaKoJbmyTXQE",
     language: ["React", "Javascript", "HTML", "CSS"],
     tech: ["React.js", "Tailwind CSS"],
-    src: "https://github.com/sunnysherrysunny/react-portfolio",
-    demo: "https://sunnyguan.netlify.app/",
+    src: "https://github.com/sunnynano/react-portfolio",
+    demo: "https://sguan.netlify.app/",
     description: `This portfolio is a Single Page Application and features responsive design.
     I developed it on React.js and utilized React-Router to handle transitions between different views.
     I also used Tailwind CSS to beautify the webpage and switch between dark and light modes.`,
@@ -34,7 +34,7 @@ const projectDetails = [
     id: "qYizQ4ibA1FcBj4KpnKEa",
     language: ["Python"],
     tech: ["OpenCV", "NumPy"],
-    src: "https://github.com/sunnysherrysunny/Dirt-Drift",
+    src: "https://github.com/sunnynano/Dirt-Drift",
     description: `Dirt Drift is a Python racing game featuring real-world physics simulation.
       To allow users to create and import custom racing tracks,
       I utilized OpenCV to process track images into game data.

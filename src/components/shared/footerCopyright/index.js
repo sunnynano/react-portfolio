@@ -18,7 +18,7 @@ export default function FooterCopyright() {
       <div>
         <span>View source code </span>
         <a
-          href="https://github.com/sunnysherrysunny/react-portfolio"
+          href="https://github.com/sunnynano/react-portfolio"
           target="_blank"
           rel="noreferrer"
           className="
@@ -44,11 +44,11 @@ export default function FooterCopyright() {
                     text-gray-800 underline 
                     dark:text-gray-200
                     "
-          href="https://github.com/sunnysherrysunny"
+          href="https://github.com/sunnynano"
           target="_blank"
           rel="noreferrer"
         >
-          Feiyang (Sunny) Guan
+          Sunny (Feiyang) Guan
         </a>
         .
       </div>
