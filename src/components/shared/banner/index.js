@@ -29,7 +29,7 @@ export default function Banner() {
                     xl:text-4xl
                     "
         >
-          Hi, I am Feiyang (Sunny)
+          Hi, I am Sunny (Feiyang)
         </h1>
         <p
           className="
@@ -44,7 +44,7 @@ export default function Banner() {
                       xl:text-2xl
                       "
         >
-          A Full-Stack Developer
+          A Full Stack Developer
         </p>
         <div className="flex justify-center sm:block">
           <a
