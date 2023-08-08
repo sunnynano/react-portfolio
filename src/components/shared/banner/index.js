@@ -48,8 +48,8 @@ export default function Banner() {
         </p>
         <div className="flex justify-center sm:block">
           <a
-            download="Feiyang (Sunny) Guan-Resume.pdf"
-            href="/files/Feiyang (Sunny) Guan-Resume.pdf"
+            download="Sunny Guan-Resume.pdf"
+            href="/files/Sunny Guan-Resume.pdf"
             className="
                         mt-12
                         mb-6
