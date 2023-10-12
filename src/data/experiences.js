@@ -15,9 +15,6 @@ const experiences = [
       `Optimized customer service pipeline by enabling ChatGPT to categorize and tag incoming help tickets, 
     leading to a 20% increase in the number of tickets resolved per day.`,
       `Fine-tuned ChatGPT using prompt engineering to improve tagging accuracy from 67% to 89.5%.`,
-      `Collaborated with support teams to develop a data pipeline that 
-    automatically gathers and preprocesses the training dataset, 
-    ensuring the model remained up-to-date with the latest customer concerns.`,
     ],
     imgSrc: OdooLogo,
     website: "https://www.odoo.com",
