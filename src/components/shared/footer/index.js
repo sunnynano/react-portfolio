@@ -20,7 +20,7 @@ export default function Footer() {
       id: "xd0Ljws_hn4ICX5nQQS1k",
       name: "Leetcode",
       icon: "Code",
-      url: "https://leetcode.com/sunnysherrysunny/",
+      url: "https://leetcode.com/linbay/",
     },
   ];
 
