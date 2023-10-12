@@ -1,5 +1,5 @@
 // Project summaried data.
-import UnderConstrcution from "../assets/images/slog-underconstruction.svg"
+import UnderConstrcution from "../assets/images/slog-underconstruction.svg";
 
 const projectSummaries = [
   {
@@ -13,6 +13,14 @@ const projectSummaries = [
       require("../assets/images/protigue-2.png"),
       require("../assets/images/protigue-3.png"),
     ],
+  },
+  {
+    id: "EXyk6VTv0NSyH0Peyyx1J",
+    title: "Distributed File System",
+    category: "System",
+    date: "Mar 29, 2023",
+    displayImg: require("../assets/images/distributed-file-system-display.jpg"),
+    galleryImg: [require("../assets/images/distributed-file-system-1.png")],
   },
   {
     id: "Fnp6RNMTNx-i7zdGGaqLd",
