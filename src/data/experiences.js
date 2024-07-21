@@ -3,8 +3,24 @@ import OdooLogo from "../assets/images/odoo-logo.png";
 import oneTwelveLogo from "../assets/images/112-logo.png";
 import CMULogo from "../assets/images/cmu-logo.png";
 import NFLSLogo from "../assets/images/nfls-logo.jpg";
+import RobinhoodLogo from "../assets/images/robinhood-logo.png";
 
 const experiences = [
+  {
+    id: "Tmmhj8BwtrB65bTUMO7B6",
+    title: "Security Software Intern",
+    startDate: "May 2024 - Aug 2024",
+    detail: [
+      `Implemented a Go-based microservice and initiated multiple gRPC endpoints to track 1 million users' GPS locations
+      and lockout users in restricted regions`,
+      `Achieved 99% cache hit rate by designing new cache policies and 90% cost reduction through switching to AWS
+      Location Service`,
+      `Developed automated test probes for services across the team, successfully identifying issues in legacy services`,
+      `Crafted password validators in Django, ensuring compliance with password security requirements.`,
+    ],
+    imgSrc: RobinhoodLogo,
+    website: "https://www.robinhood.com",
+  },
   {
     id: "5gFRXlbvRjYXFenbA9Fh9",
     title: "Full Stack Developer Intern",
