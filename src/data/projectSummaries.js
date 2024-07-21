@@ -1,7 +1,22 @@
 // Project summaried data.
-import UnderConstrcution from "../assets/images/slog-underconstruction.svg";
 
 const projectSummaries = [
+  {
+    id: "TYyk6VTv0NSyH0EPyyx1J",
+    title: "Bustub Database Engine",
+    category: "System",
+    date: "Apr 30, 2024",
+    displayImg: require("../assets/images/bustub.jpg"),
+    galleryImg: [require("../assets/images/bustub-shell.png")],
+  },
+  {
+    id: "EXyk6VTv0NSyH0Peyyx1J",
+    title: "Distributed File System",
+    category: "System",
+    date: "Mar 29, 2023",
+    displayImg: require("../assets/images/distributed-file-system-display.jpg"),
+    galleryImg: [require("../assets/images/distributed-file-system-2.png")],
+  },
   {
     id: "pkuezP41r6IZYIDaay8L-",
     title: "Protigue Eats",
@@ -15,14 +30,6 @@ const projectSummaries = [
     ],
   },
   {
-    id: "EXyk6VTv0NSyH0Peyyx1J",
-    title: "Distributed File System",
-    category: "System",
-    date: "Mar 29, 2023",
-    displayImg: require("../assets/images/distributed-file-system-display.jpg"),
-    galleryImg: [require("../assets/images/distributed-file-system-1.png")],
-  },
-  {
     id: "Fnp6RNMTNx-i7zdGGaqLd",
     title: "Portfolio",
     category: "Front-end",
@@ -33,14 +40,6 @@ const projectSummaries = [
       require("../assets/images/portfolio-2.png"),
       require("../assets/images/portfolio-3.png"),
     ],
-  },
-  {
-    id: "GJAFnvnaGPArdwQNdc95I",
-    title: "S-Log",
-    category: "Full-stack",
-    date: "Work In Progress",
-    displayImg: require("../assets/images/slog-preview-display.png"),
-    galleryImg: [UnderConstrcution],
   },
   {
     id: "5cfJk4lTAFIDObKnSblVC",
