@@ -91,31 +91,7 @@ export default function HeaderLinks(props) {
         >
           About Me
         </Link>
-        <Link
-          to="/contact"
-          className="
-                    font-general-medium
-                    mb-2
-                    block border-t-2
-                    border-secondary-light
-                    pt-3
-                    text-left
-                    text-lg
-                    font-medium
-                    text-primary-dark
-                    hover:text-teal-600
-                    dark:border-secondary-dark
-                    dark:text-primary-light
-                    dark:hover:text-cyan-100
-                    sm:mx-4 sm:border-t-0
-                    sm:py-2
-                    sm:pt-2
-                    "
-          aria-label="Contact"
-          onClick={toggleMenu}
-        >
-          Contact
-        </Link>
+        
         <div
           className="
                     border-t-2
